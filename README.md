@@ -29,20 +29,20 @@ Currently focused on building a strong problem-solving foundation before diving 
 
 ---
 
-### 💻 Tech I'm Comfortable With
+###  Tech 
 
 ```text
 Java
 C
 HTML
 CSS
-JavaScript (Basics)
+JavaScript 
 Git & GitHub
 ```
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 #### 🌦 SkyCast
 
@@ -57,50 +57,34 @@ Features:
 
 ---
 
-### 📊 A Few Numbers
+---
+
+### Current Learning Path
 
 ```text
-LeetCode Problems Solved : 300+
+DSA  ██████████░░  
 
-TCS CodeVita Rank       : 4145
+Java █████████░░░  
 
-CodeChef Badge          : Gold
-
-Coffee Consumed         : Uncountable
+Frontend █████░░░░░ 
 ```
 
 ---
 
-### 🌱 Current Learning Path
-
-```text
-DSA  ██████████░░  75%
-
-Java █████████░░░  70%
-
-Frontend █████░░░░░ 40%
-```
-
----
-
-### 🎯 Goal
-
-Become a software engineer with strong problem-solving skills and the ability to build useful products.
+###  Goal
 
 One step. One bug. One commit at a time.
 
 ---
 
-### 📫 Find Me Here
+###  Find Me Here
 
 Email:
 [khushii77e@gmail.com](mailto:khushii77e@gmail.com)
 
-LinkedIn:
-linkedin.com/in/khushi-6b787a313
+ LinkedIn:
+[Khushi Kumari](https://www.linkedin.com/in/khushi-6b787a313)
 
-LeetCode:
-leetcode.com/u/Khushii77
 
 ```
 ```
