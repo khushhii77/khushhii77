@@ -23,7 +23,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="100%">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIwbmdsNWJ1cGRjaWc5cjIwYW8xOXB3eDVwcGk2a3BhcXk5NWtlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UcK7JalnjCz0k/giphy.gif" width="100%">
 
 </td>
 </tr>
