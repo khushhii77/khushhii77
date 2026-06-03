@@ -1,67 +1,106 @@
-<h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
+# Hi, I'm Khushi 👋
 
-<h3 align="center">B.Tech CSE Student | Java & DSA Learner</h3>
+```java
+while(!success){
+    learn();
+    code();
+    debug();
+    repeat();
+}
+```
 
-<p align="center">
-Java • DSA • Problem Solving • Frontend Basics
-</p>
+A second-year CSE (AI) student who spends most of her time solving DSA problems, learning Java, and trying to make yesterday's code work today.
 
----
-
-## 👩‍💻 About Me
-
-🎓 B.Tech CSE (AI Specialization)
-
-🌱 Currently learning Data Structures & Algorithms in Java
-
-💻 Exploring Frontend Development
-
-🚀 Building projects and improving problem-solving skills
-
-🎯 Looking for Software Development Internship opportunities
+Currently focused on building a strong problem-solving foundation before diving deeper into development.
 
 ---
 
-## 🛠 Tech Stack
+### 📌 What I'm Working On
 
-- Java
-- HTML
-- CSS
-- JavaScript (Basics)
-- Git
-- GitHub
+🔹 Solving DSA problems regularly in Java
 
----
+🔹 Improving problem-solving and coding consistency
 
-## 📚 Currently Learning
+🔹 Learning Object Oriented Programming
 
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Frontend Development
-- Problem Solving
+🔹 Exploring Frontend Development
+
+🔹 Building small projects to learn by doing
 
 ---
 
-## 🚀 Featured Projects
+### 💻 Tech I'm Comfortable With
 
-### 🌦 SkyCast
-A responsive weather dashboard built using HTML, CSS and JavaScript.
-
-🔗 Live Demo:  
-https://gleaming-macaron-652665.netlify.app/
-
-### 📖 DSA in Java
-Daily DSA practice and problem-solving journey.
-
-### 💻 OOPS Practice
-Java OOPS concepts and coding exercises.
-
+```text
+Java
+C
+HTML
+CSS
+JavaScript (Basics)
+Git & GitHub
+```
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured Work
 
-📧 Email: khushii77e@gmail.com
+#### 🌦 SkyCast
 
-💼 LinkedIn:  
-www.linkedin.com/in/khushi-6b787a313
+A weather dashboard built using HTML, CSS and JavaScript.
+
+Features:
+
+* Weather search by city
+* Responsive design
+* Clean UI
+* Deployed on Netlify
+
+---
+
+### 📊 A Few Numbers
+
+```text
+LeetCode Problems Solved : 300+
+
+TCS CodeVita Rank       : 4145
+
+CodeChef Badge          : Gold
+
+Coffee Consumed         : Uncountable
+```
+
+---
+
+### 🌱 Current Learning Path
+
+```text
+DSA  ██████████░░  75%
+
+Java █████████░░░  70%
+
+Frontend █████░░░░░ 40%
+```
+
+---
+
+### 🎯 Goal
+
+Become a software engineer with strong problem-solving skills and the ability to build useful products.
+
+One step. One bug. One commit at a time.
+
+---
+
+### 📫 Find Me Here
+
+Email:
+[khushii77e@gmail.com](mailto:khushii77e@gmail.com)
+
+LinkedIn:
+linkedin.com/in/khushi-6b787a313
+
+LeetCode:
+leetcode.com/u/Khushii77
+
+```
+```
