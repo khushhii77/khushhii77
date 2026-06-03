@@ -11,28 +11,29 @@
 ```json
 {
   "name": "KHUSHI KUMARI",
-  "role": "CS Student + developer",
-  "status": "solving problems, build something",
-  "goal": " collabs/Internship",
+  "role": "CSE Student + Developer",
+  "focus": "Java & DSA",
+  "status": "solving problems, building projects",
+  "goal": "internships & growth",
   "giving_up": false
 }
 ```
 
 </td>
 
-<td width="40%">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/khushhii77/khushhii77/main/assets/coding.gif" width="100%"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 I'm a Computer Science student focused on building strong problem-solving skills through Java and Data Structures & Algorithms.
-
 Currently exploring web development, building projects, and learning something new with every bug I encounter.
 
-Not an expert. Just someone who enjoys learning, building, and improving one commit at a time. 
+Not an expert. Just someone who enjoys learning, building, and improving one commit at a time.
+
 ---
 
 ## ▸ Tech-Stack
@@ -67,9 +68,7 @@ Not an expert. Just someone who enjoys learning, building, and improving one com
 [TARGET]     Software Development Internship
 
 ```
-
 ---
-
 
 
 ##  Connect ME..
@@ -83,9 +82,13 @@ https://www.linkedin.com/in/khushi-6b787a313
 
 ---
 
+<div align="center">
+
 ```text
-╔══════════════════════════════════════════════╗
-║   learning, building, debugging, growing.   ║
-║        one commit at a time. 🚀             ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════╗
+║  learning, building, debugging,     ║
+║      growing one commit at a time. 🚀 ║
+╚══════════════════════════════════════╝
 ```
+
+</div>
