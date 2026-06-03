@@ -15,17 +15,13 @@ Currently focused on building a strong problem-solving foundation before diving 
 
 ---
 
-### 📌 What I'm Working On
+###  What I'm Working On
 
-🔹 Solving DSA problems regularly in Java
-
-🔹 Improving problem-solving and coding consistency
-
-🔹 Learning Object Oriented Programming
-
-🔹 Exploring Frontend Development
-
-🔹 Building small projects to learn by doing
+- Solving DSA problems in Java
+- Improving problem-solving and coding consistency
+- Learning Object Oriented Programming
+- Exploring web Development
+- Building small projects to learn by doing
 
 ---
 
