@@ -13,7 +13,6 @@
 }
 ```
 
----
 
 I'm a second-year Computer Science student who enjoys solving problems, learning new technologies, and building projects that help me grow as a developer.
 
@@ -22,27 +21,27 @@ Currently focused on strengthening my DSA foundation in Java while exploring web
 
 ---
 
-## ✦ Tech Stack
+## ▸ Tech-Stack
 
-```text
-Languages
-├── Java
-├── C
-└── JavaScript (Basics)
+<p align="center">
 
-Frontend
-├── HTML
-└── CSS
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-Tools
-├── Git
-├── GitHub
-└── VS Code
-```
+<br><br>
+
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 ---
 
-## ✦ Current Status
+##  Current Status
 
 ```text
 [FOCUS]      Java + DSA
@@ -57,42 +56,13 @@ Tools
 
 ---
 
-## ✦ Highlights
-
-```text
-LeetCode Problems Solved : 300+
-
-TCS CodeVita Rank       : 4145
-
-CodeChef Badge          : Gold
-
-Project Deployed        : SkyCast
-```
-
----
 
 
-
-## ✦ Philosophy
-
-> Consistency beats motivation.
-
-> Small improvements every day become big results over time.
-
-> Learn. Build. Improve. Repeat.
-
----
-
-## ✦ Connect
+##  Connect ME..
 
 💼 LinkedIn
 https://www.linkedin.com/in/khushi-6b787a313
 
-💻 LeetCode
-https://leetcode.com/u/Khushii77
-
-🐙 GitHub
-https://github.com/khushhii77
 
 📧 Email
 [khushii77e@gmail.com](mailto:khushii77e@gmail.com)
