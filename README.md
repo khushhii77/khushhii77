@@ -1,86 +1,31 @@
-# Hi, I'm Khushi 👋
+CSE Student
 
-```java
-while(!success){
-    learn();
-    code();
-    debug();
-    repeat();
-}
-```
-
-A second-year CSE (AI) student who spends most of her time solving DSA problems, learning Java, and trying to make yesterday's code work today.
-
-Currently focused on building a strong problem-solving foundation before diving deeper into development.
-
----
-
-###  What I'm Working On
-
-- Solving DSA problems in Java
-- Improving problem-solving and coding consistency
-- Learning Object Oriented Programming
-- Exploring web Development
-- Building small projects to learn by doing
-
----
-
-###  Tech 
-
-```text
-Java
-C
-HTML
-CSS
-JavaScript 
-Git & GitHub
-```
-
----
-
-### Featured Work
-
-#### 🌦 SkyCast
-
-A weather dashboard built using HTML, CSS and JavaScript.
-
-Features:
-
-* Weather search by city
-* Responsive design
-* Clean UI
-* Deployed on Netlify
-
----
-
----
-
-### Current Learning Path
-
-```text
-DSA  ██████████░░  
-
-Java █████████░░░  
-
-Frontend █████░░░░░ 
-```
-
----
-
-###  Goal
-
-One step. One bug. One commit at a time.
-
----
-
-###  Find Me Here
-
-Email:
-[khushii77e@gmail.com](mailto:khushii77e@gmail.com)
-
- LinkedIn:
-[Khushi Kumari](https://www.linkedin.com/in/khushi-6b787a313)
+{ "name": "Khushi Kumari", "role": "B.Tech CSE (AI) Student", "focus": "Java & DSA", "status": "learning and building", "currently": "solving LeetCode problems", "goal": "Software Development Internship", "coffee": true, "giving_up": false } 
 
 
-```
-```
+I'm a second-year Computer Science student who enjoys solving problems, learning new concepts, and building projects that help me grow as a developer.
+Currently focused on strengthening my Data Structures & Algorithms foundation using Java while exploring frontend development.
+
+ ### Tech Stack
+
+Languages ├── Java ├── C └── JavaScript (Basics) Frontend ├── HTML └── CSS Tools ├── GitHub ├── Git └── VS Code 
+
+### Featured Project
+
+🌦 SkyCast
+
+Type : Weather Dashboard Tech Stack : HTML, CSS, JavaScript Deployment : Netlify Features : • Weather Search • Responsive Design • Clean UI 
+🔗 Live Demo: https://gleaming-macaron-652665.netlify.app/
+🔗 Repository: https://github.com/khushhii77/SkyCast
+
+### Current Roadmap
+
+Java Fundamentals ██████████░ 90% DSA ████████░░░ 80% OOP ███████░░░░ 70%  Development ████░░░░░░░ 40% 
+
+### Connect
+
+💼 LinkedIn
+https://www.linkedin.com/in/khushi-6b787a313
+
+📧 Email
+khushii77e@gmail.com
