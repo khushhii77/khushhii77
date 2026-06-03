@@ -2,23 +2,37 @@
 
 ---
 
+## ▸ profile.json
+
+<table>
+<tr>
+<td width="60%">
+
 ```json
 {
-  "name": "Khushi Kumari",
-  "focus": "Data Structures & Algorithms",
-  "primary_language": "Java",
-  "currently_learning": "Web Development",
-  "goal": "Software Development Internship",
-  "status": "learning and building"
+  "name": "KHUSHI KUMARI",
+  "role": "CS Student + developer",
+  "status": "solving problems, build something",
+  "goal": " collabs/Internship",
+  "giving_up": false
 }
 ```
 
+</td>
 
-I'm a second-year Computer Science student who enjoys solving problems, learning new technologies, and building projects that help me grow as a developer.
+<td width="40%">
 
-Currently focused on strengthening my DSA foundation in Java while exploring web development and software engineering concepts.
+<img src="https://raw.githubusercontent.com/khushhii77/khushhii77/main/assets/coding.gif" width="100%"/>
 
+</td>
+</tr>
+</table>
 
+I'm a Computer Science student focused on building strong problem-solving skills through Java and Data Structures & Algorithms.
+
+Currently exploring web development, building projects, and learning something new with every bug I encounter.
+
+Not an expert. Just someone who enjoys learning, building, and improving one commit at a time. 
 ---
 
 ## ▸ Tech-Stack
