@@ -31,7 +31,7 @@ Currently focused on strengthening my DSA foundation in Java while exploring web
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
